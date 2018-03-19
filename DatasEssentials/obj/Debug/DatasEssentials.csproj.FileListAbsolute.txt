@@ -1,0 +1,5 @@
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\DatasEssentials\DatasEssentials\bin\Debug\DatasEssentials.dll
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\DatasEssentials\DatasEssentials\bin\Debug\DatasEssentials.pdb
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\DatasEssentials\DatasEssentials\obj\Debug\DatasEssentials.dll
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\DatasEssentials\DatasEssentials\obj\Debug\DatasEssentials.pdb
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\DatasEssentials\DatasEssentials\obj\Debug\DatasEssentials.csprojResolveAssemblyReference.cache
